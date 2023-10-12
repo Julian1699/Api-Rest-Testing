@@ -18,7 +18,7 @@ Antes de ejecutar la API sin problemas, es importante configurar la base de dato
 
 ![image](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/988abbb0-6e03-49db-a871-803beefe834c)
 
-# Ejecución de TDD a la capa Controller (TEST DRIVEN DEVELOPMENT) 
+# Ejecución de TDD en la capa del controlador (TEST DRIVEN DEVELOPMENT)
 
 ![image](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/e2f12ac5-cab1-4cda-a084-fd3c1d1b72bb)
 
