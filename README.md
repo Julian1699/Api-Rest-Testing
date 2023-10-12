@@ -2,7 +2,7 @@
 
 | API REST |  SpringBoot | Spring JPA | Hibernate | PostgreSQL | Swagger | JUnit | Mockito | TDD |
 
-![API REST TESTING](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/6533e691-edc0-45e5-a6a5-dd075c8faaff)
+![API REST TESTING](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/8f7411fd-bbe2-48ef-aec3-580d1d770e0d)
 
 # Configuración de la Base de Datos:
 
