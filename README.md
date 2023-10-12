@@ -1,6 +1,6 @@
-# Api-Rest-Intermedian
+# Api-Rest-Testing
 
-| API REST |  SpringBoot | Spring JPA | Hibernate | PostgreSQL | Swagger |
+| API REST |  SpringBoot | Spring JPA | Hibernate | PostgreSQL | Swagger | JUnit | Mockito |
 
 ![API REST EASY](https://github.com/Julian1699/Api-Rest-For-Learning/assets/114323630/b1d6a79e-36d0-4d12-80b5-d765d6da218a)
 
@@ -8,7 +8,15 @@
 
 Antes de ejecutar la API sin problemas, es importante configurar la base de datos. En este proyecto, hemos utilizado PostgreSQL como gestor de base de datos, pero el proyecto está diseñado para admitir conexiones de otros gestores de bases de datos como MySQL y Oracle SQL, ya que las dependencias necesarias se encuentran definidas en el archivo pom.xml.
 
-![image](https://github.com/Julian1699/Api-Rest-Intermedian/assets/114323630/74cfaa72-1133-46e3-9edd-fc57af78a667)
+![image](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/1eadafc3-1fae-4c35-9877-8879b334b617)
+
+# Capas testeadas:
+
+![image](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/f8972de9-588c-4a46-bef1-81d2f7830d8a)
+
+# Empleo de Junit y Mockito:
+
+![image](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/988abbb0-6e03-49db-a871-803beefe834c)
 
 # API de Productos
 
