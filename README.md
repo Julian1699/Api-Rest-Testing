@@ -1,6 +1,6 @@
 # Api-Rest-Testing
 
-| API REST |  SpringBoot | Spring JPA | Hibernate | PostgreSQL | Swagger | JUnit | Mockito | TDD |
+| API REST |  SpringBoot | Spring JPA | Hibernate | H2 | Swagger | JUnit | Mockito | TDD |
 
 ![API REST TESTING](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/7bad6929-315a-424b-83fd-15048dc76a3e)
 
