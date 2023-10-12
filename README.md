@@ -2,11 +2,11 @@
 
 | API REST |  SpringBoot | Spring JPA | Hibernate | PostgreSQL | Swagger | JUnit | Mockito | TDD |
 
-![API REST EASY](https://github.com/Julian1699/Api-Rest-For-Learning/assets/114323630/b1d6a79e-36d0-4d12-80b5-d765d6da218a)
+![API REST TESTING](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/6533e691-edc0-45e5-a6a5-dd075c8faaff)
 
 # Configuración de la Base de Datos:
 
-Antes de ejecutar la API sin problemas, es importante configurar la base de datos. En este proyecto, hemos utilizado PostgreSQL como gestor de base de datos, pero el proyecto está diseñado para admitir conexiones de otros gestores de bases de datos como MySQL y Oracle SQL, ya que las dependencias necesarias se encuentran definidas en el archivo pom.xml.
+Antes de ejecutar la API sin problemas, es importante configurar la base de datos. En este proyecto, hemos utilizado H2 como gestor de base de datos, y el usuario es 'root' con la contraseña también establecida como 'root'. Sin embargo, el proyecto está diseñado para admitir conexiones de otros gestores de bases de datos como MySQL, Oracle SQL y PostgreSQL ya que las dependencias necesarias están definidas en el archivo pom.xml.
 
 ![image](https://github.com/Julian1699/Api-Rest-Testing/assets/114323630/1eadafc3-1fae-4c35-9877-8879b334b617)
 
